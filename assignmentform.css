@@ -1,0 +1,13 @@
+img{float: left;
+border: 2px solid red;}
+body{background-color: aqua;}
+body{float: center;
+    padding-left: 5em;
+border: 5px solid green;
+}
+h1{text-align: center;
+color: red;
+text-decoration: underline;
+text-decoration-color: hotpink;}
+.img2{float: right;
+size: 5em;}
